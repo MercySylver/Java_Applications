@@ -2,7 +2,7 @@ public class BossWorkerExample {
 
     public static void main(String[] args) {
         // The boss method starts the process
-        bossMethod();
+        BossWorkerExample.bossMethod();
     }
 
     // Boss Method: This method calls other worker methods
